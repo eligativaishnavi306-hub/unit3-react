@@ -1,11 +1,11 @@
 import React from 'react';
-import todo from './todo.jsx';
+import Todo from './todo.jsx';
 import './App.css';
 
 function App() {
   return (
   <div>
-    <todo />
+    <Todo />
     </div>);
 }
 
